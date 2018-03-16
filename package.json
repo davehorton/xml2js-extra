@@ -1,0 +1,37 @@
+{
+  "name": "xml2js-extra",
+  "version": "1.0.0",
+  "description": "XmlElement wrapper for xml2js that provides namespace support",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node test/ | ./node_modules/.bin/tap-spec",
+    "coverage": "NODE_ENV=test ./node_modules/.bin/istanbul cover test/ --report html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davehorton/drachtio-simple-server.git"
+  },
+  "keywords": [
+    "xml",
+    "xml2js"
+  ],
+  "author": "Dave Horton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davehorton/drachtio-simple-server/issues"
+  },
+  "homepage": "https://github.com/davehorton/drachtio-simple-server#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash": "^4.17.5",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "blue-tape": "^1.0.0",
+    "fs-extra": "^5.0.0",
+    "istanbul": "^0.4.5",
+    "tap-dot": "^1.0.5",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.9.0"
+  }
+}
