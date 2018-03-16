@@ -1,4 +1,4 @@
-# xml2js-extra [![Build Status](https://secure.travis-ci.org/davehorton/xml2j-extra.png)](http://travis-ci.org/davehorton/xml2j-extra) [![NPM version](https://badge.fury.io/js/xml2j-extra.svg)](http://badge.fury.io/js/xml2j-extra)
+# xml2js-extra [![Build Status](https://secure.travis-ci.org/davehorton/xml2js-extra.png)](http://travis-ci.org/davehorton/xml2js-extra) [![NPM version](https://badge.fury.io/js/xml2js-extra.svg)](http://badge.fury.io/js/xml2js-extra)
 
 XmlElement wrapper for xml2js that provides namespace support
 
